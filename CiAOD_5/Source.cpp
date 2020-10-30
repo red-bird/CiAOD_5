@@ -9,7 +9,8 @@ int main() {
 	int edgeNum = 0;
 
 	cout << "Prim algorythm\n" << "Enter amount of nodes\n";
-	if (!(cin >> n)) {
+	cin >> n;
+	if (n < 1) {
 		cout << "incorrect input\n";
 		return -1;
 	}
@@ -55,7 +56,7 @@ int main() {
 				}
 			}
 		}
-		cout << '(' << x << " -> " << y << ") " << array[x][y] << " | ";
+		cout << '(' << x+1 << " -> " << y+1 << ") " << array[x][y] << " | ";
 		choosen[y] = true;
 		++edgeNum;
 	}
