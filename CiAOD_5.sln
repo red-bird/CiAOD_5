@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CiAOD_5", "CiAOD_5\CiAOD_5.vcxproj", "{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Debug|x64.ActiveCfg = Debug|x64
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Debug|x64.Build.0 = Debug|x64
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Debug|x86.Build.0 = Debug|Win32
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Release|x64.ActiveCfg = Release|x64
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Release|x64.Build.0 = Release|x64
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Release|x86.ActiveCfg = Release|Win32
+		{CCCD20DF-AD87-4C07-8A71-A72FA49D04D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3317A7-6329-4F80-B24D-F99D7710E6F8}
+	EndGlobalSection
+EndGlobal
